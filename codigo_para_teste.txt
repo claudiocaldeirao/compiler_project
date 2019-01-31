@@ -1,0 +1,9 @@
+program correto;
+int a,b,c;
+
+begin
+	read(a);
+	b:=10;
+	c:=a+b;
+	write(c)
+end.
